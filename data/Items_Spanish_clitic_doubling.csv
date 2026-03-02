@@ -1,0 +1,129 @@
+﻿Item,Condition,Sentence,Target
+1,dative,Laura dio flores a Rafael en el parque de las afueras de la ciudad.,Rafael
+1,dative_doubled,Laura le dio flores a Rafael en el parque de las afueras de la ciudad.,Rafael
+1,accusative,Laura encontró a Rafael en el parque de las afueras de la ciudad.,Rafael
+1,accusative_doubled,Laura lo encontró a Rafael en el parque de las afueras de la ciudad.,Rafael
+2,dative,Pablo ofreció su bicicleta a Julia en la plaza en la tarde del lunes.,Julia
+2,dative_doubled,Pablo le ofreció su bicicleta a Julia en la plaza en la tarde del lunes.,Julia
+2,accusative,Pablo saludó a Julia en la plaza en la tarde del lunes.,Julia
+2,accusative_doubled,Pablo la saludó a Julia en la plaza en la tarde del lunes.,Julia
+3,dative,Sofía devolvió los libros a José en el colegio por la mañana del martes.,José
+3,dative_doubled,Sofía le devolvió los libros a José en el colegio por la mañana del martes,José
+3,accusative,Sofía vio a José en el colegio por la mañana del martes.,José
+3,accusative_doubled,Sofía lo vio a José en el colegio por la mañana del martes.,José
+4,dative,Lucas vendió unas tartas a Mariana en la panadería del centro de la ciudad.,Mariana
+4,dative_doubled,Lucas le vendió unas tartas a Mariana en la panadería del centro de la ciudad.,Mariana
+4,accusative,Lucas abrazó a Mariana en la panadería del centro de la ciudad.,Mariana
+4,accusative_doubled,Lucas la abrazó a Mariana en la panadería del centro de la ciudad.,Mariana
+5,dative,Marta compró un regalo a Carlos en el mercado de la avenida por la tarde.,Carlos
+5,dative_doubled,Marta le compró un regalo a Carlos en el mercado de la avenida por la tarde.,Carlos
+5,accusative,Marta empujó a Carlos en el mercado de la avenida por la tarde.,Carlos
+5,accusative_doubled,Marta lo empujó a Carlos en el mercado de la avenida por la tarde.,Carlos
+6,dative,Ricardo regaló un peluche a Patricia durante el festival del sábado a la tarde.,Patricia
+6,dative_doubled,Ricardo le regaló un peluche a Patricia durante el festival del sábado a la tarde.,Patricia
+6,accusative,Ricardo conoció a Patricia durante el festival del sábado a la tarde.,Patricia
+6,accusative_doubled,Ricardo la conoció a Patricia durante el festival del sábado a la tarde.,Patricia
+7,dative,Sonia envió unos mensajes a Matías en la oficina del jefe de la compañía.,Matías
+7,dative_doubled,Sonia le envió unos mensajes a Matías en la oficina del jefe de la compañía.,Matías
+7,accusative,Sonia interrogó a Matías en la oficina del jefe de la compañía.,Matías
+7,accusative_doubled,Sonia lo interrogó a Matías en la oficina del jefe de la compañía.,Matías
+8,dative,Nicolás prestó sus pesas a Sandra en el gimnasio del club de fútbol.,Sandra
+8,dative_doubled,Nicolás le prestó sus pesas a Sandra en el gimnasio del club de fútbol.,Sandra
+8,accusative,Nicolás buscó a Sandra en el gimnasio del club de fútbol.,Sandra
+8,accusative_doubled,Nicolás la buscó a Sandra en el gimnasio del club de fútbol.,Sandra
+9,dative,Clara devolvió los zapatos a Emilio en la zapatería de un barrio de Nueva York.,Emilio
+9,dative_doubled,Clara le devolvió los zapatos a Emilio en la zapatería de un barrio de Nueva York.,Emilio
+9,accusative,Clara vio a Emilio en la zapatería de un barrio de Nueva York.,Emilio
+9,accusative_doubled,Clara lo vio a Emilio en la zapatería de un barrio de Nueva York.,Emilio
+10,dative,Hugo vendió unos collares a Susana en la feria de artesanía del pueblo.,Susana
+10,dative_doubled,Hugo le vendió unos collares a Susana en la feria de artesanía del pueblo.,Susana
+10,accusative,Hugo abrazó a Susana en la feria de artesanía del pueblo.,Susana
+10,accusative_doubled,Hugo la abrazó a Susana en la feria de artesanía del pueblo.,Susana
+11,dative,Ariana compró varios tickets a Jesús en la estación de tren de Retiro.,Jesús
+11,dative_doubled,Ariana le compró varios tickets a Jesús en la estación de tren de Retiro.,Jesús
+11,accusative,Ariana empujó a Jesús en la estación de tren de Retiro.,Jesús
+11,accusative_doubled,Ariana lo empujó a Jesús en la estación de tren de Retiro.,Jesús
+12,dative,Gonzalo regaló su computadora a Catalina antes del viaje a Europa durante el verano.,Catalina
+12,dative_doubled,Gonzalo le regaló su computadora a Catalina antes del viaje a Europa durante el verano.,Catalina
+12,accusative,Gonzalo conoció a Catalina antes del viaje a Europa durante el verano.,Catalina
+12,accusative_doubled,Gonzalo la conoció a Catalina antes del viaje a Europa durante el verano.,Catalina
+13,dative,Pilar envió un paquete a Samuel en la oficina de correo del centro comercial.,Samuel
+13,dative_doubled,Pilar le envió un paquete a Samuel en la oficina de correo del centro comercial.,Samuel
+13,accusative,Pilar interrogó a Samuel en la oficina de correo del centro comercial.,Samuel
+13,accusative_doubled,Pilar lo interrogó a Samuel en la oficina de correo del centro comercial.,Samuel
+14,dative,Luis prestó un pañuelo a Valentina en el restaurante de la empresa de finanzas.,Valentina
+14,dative_doubled,Luis le prestó un pañuelo a Valentina en el restaurante de la empresa de finanzas.,Valentina
+14,accusative,Luis buscó a Valentina en el restaurante de la empresa de finanzas.,Valentina
+14,accusative_doubled,Luis la buscó a Valentina en el restaurante de la empresa de finanzas. ,Valentina
+15,dative,Ana dio un libro a Diego en el instituto de inglés el viernes.,Diego
+15,dative_doubled,Ana le dio un libro a Diego en el instituto de inglés el viernes.,Diego
+15,accusative,Ana encontró a Diego en el instituto de inglés el viernes.,Diego
+15,accusative_doubled,Ana lo encontró a Diego en el instituto de inglés el viernes.,Diego
+16,dative,Jorge ofreció un té a Martina en la cafetería de la universidad después de clases.,Martina
+16,dative_doubled,Jorge le ofreció un té a Martina en la cafetería de la universidad después de clases.,Martina
+16,accusative,Jorge saludó a Martina en la cafetería de la universidad después de clases.,Martina
+16,accusative_doubled,Jorge la saludó a Martina en la cafetería de la universidad después de clases.,Martina
+17,dative,Elisa compró unas manzanas a Alejandro en el mercado de frutas importadas.,Alejandro
+17,dative_doubled,Elisa le compró unas manzanas a Alejandro en el mercado de frutas importadas.,Alejandro
+17,accusative,Elisa empujó a Alejandro en el mercado de frutas importadas.,Alejandro
+17,accusative_doubled,Elisa lo empujó a Alejandro en el mercado de frutas importadas.,Alejandro
+18,dative,Juan regaló dos entradas a Victoria en la puerta del cine antes de la película.,Victoria
+18,dative_doubled,Juan le regaló dos entradas a Victoria en la puerta del cine antes de la película.,Victoria
+18,accusative,Juan conoció a Victoria en la puerta del cine antes de la película.,Victoria
+18,accusative_doubled,Juan la conoció a Victoria en la puerta del cine antes de la película.,Victoria
+19,dative,Luciana envió dulces a Mateo en las vacaciones de verano de la universidad.,Mateo
+19,dative_doubled,Luciana le envió dulces a Mateo en las vacaciones de verano de la universidad.,Mateo
+19,accusative,Luciana interrogó a Mateo en las vacaciones de verano de la universidad.,Mateo
+19,accusative_doubled,Luciana lo interrogó a Mateo en las vacaciones de verano de la universidad.,Mateo
+20,dative,Santiago prestó su abrigo a Sara en el crucero por las islas del Caribe.,Sara
+20,dative_doubled,Santiago le prestó su abrigo a Sara en el crucero por las islas del Caribe.,Sara
+20,accusative,Santiago buscó a Sara en el crucero por las islas del Caribe.,Sara
+20,accusative_doubled,Santiago la buscó a Sara en el crucero por las islas del Caribe.,Sara
+21,dative,Camila dio sus medicamentos a Daniel en el hospital en la madrugada del miércoles.,Daniel
+21,dative_doubled,Camila le dio sus medicamentos a Daniel en el hospital en la madrugada del miércoles.,Daniel
+21,accusative,Camila encontró a Daniel en el hospital en la madrugada del miércoles.,Daniel
+21,accusative_doubled,Camila lo encontró a Daniel en el hospital en la madrugada del miércoles.,Daniel
+22,dative,Javier ofreció un té a Teresa en la cafetería del patio de comidas.,Teresa
+22,dative_doubled,Javier le ofreció un té a Teresa en la cafetería del patio de comidas.,Teresa
+22,accusative,Javier saludó a Teresa en la cafetería del patio de comidas.,Teresa
+22,accusative_doubled,Javier la saludó a Teresa en la cafetería del patio de comidas.,Teresa
+23,dative,Elena devolvió los auriculares a Raúl en el ensayo de la tarde del jueves.,Raúl
+23,dative_doubled,Elena le devolvió los auriculares a Raúl en el ensayo de la tarde del jueves.,Raúl
+23,accusative,Elena vio a Raúl en el ensayo de la tarde del jueves.,Raúl
+23,accusative_doubled,Elena lo vio a Raúl en el ensayo de la tarde del jueves.,Raúl
+24,dative,Ángel vendió su armario a Paula en la residencia para estudiantes de medicina.,Paula
+24,dative_doubled,Ángel le vendió su armario a Paula en la residencia para estudiantes de medicina.,Paula
+24,accusative,Ángel abrazó a Paula en la residencia para estudiantes de medicina.,Paula
+24,accusative_doubled,Ángel la abrazó a Paula en la residencia para estudiantes de medicina.,Paula
+25,dative,Antonella envió una botella de vino a Sergio en la fiesta de fin de año.,Sergio
+25,dative_doubled,Antonella le envió una botella de vino a Sergio en la fiesta de fin de año.,Sergio
+25,accusative,Antonella interregó a Sergio en la fiesta de fin de año.,Sergio
+25,accusative_doubled,Antonella lo interrogó a Sergio en la fiesta de fin de año.,Sergio
+26,dative,David prestó una toalla a Silvia en la pileta de la terraza del hotel.,Silvia
+26,dative_doubled,David le prestó una toalla a Silvia en la pileta de la terraza del hotel. ,Silvia
+26,accusative,David buscó a Silvia en la pileta de la terraza del hotel.,Silvia
+26,accusative_doubled,David la buscó a Silvia en la pileta de la terraza del hotel.,Silvia
+27,dative,Claudia dio una cerveza a Enrique en el bar de las afueras de Berlin.,Enrique
+27,dative_doubled,Claudia le dio una cerveza a Enrique en el bar de las afueras de Berlin.,Enrique
+27,accusative,Claudia encontró a Enrique en el bar de las afueras de Berlin.,Enrique
+27,accusative_doubled,Claudia lo encontró a Enrique en el bar de las afueras de Berlin.,Enrique
+28,dative,Álvaro ofreció un trato a Josefina en el tribunal al principio del juicio.,Josefina
+28,dative_doubled,Álvaro le ofreció un trato a Josefina en el tribunal al principio del juicio.,Josefina
+28,accusative,Álvaro saludó a Josefina en el tribunal al principio del juicio.,Josefina
+28,accusative_doubled,Álvaro la saludó a Josefina en el tribunal al principio del juicio.,Josefina
+29,dative,Lucía devolvió el anillo a Fernando en el aniversario de la fiesta de casamiento.,Fernando
+29,dative_doubled,Lucía le devolvió el anillo a Fernando en el aniversario de la fiesta de casamiento.,Fernando
+29,accusative,Lucía vio a Fernando en el aniversario de la fiesta de casamiento.,Fernando
+29,accusative_doubled,Lucía lo vio a Fernando en el aniversario de la fiesta de casamiento.,Fernando
+30,dative,Iván vendió su sombrilla a Ángela en la playa de las afueras de la ciudad.,Ángela
+30,dative_doubled,Iván le vendió su sombrilla a Ángela en la playa de las afueras de la ciudad.,Ángela
+30,accusative,Iván abrazó a Ángela en la playa de las afueras de la ciudad.,Ángela
+30,accusative_doubled,Iván la abrazó a Ángela en la playa de las afueras de la ciudad.,Ángela
+31,dative,Andrea compró un cuadro a Domingo en la exposición de arte del martes.,Domingo
+31,dative_doubled,Andrea le compró un cuadro a Domingo en la exposición de arte del martes.,Domingo
+31,accusative,Andrea empujó a Domingo en la exposición de arte del martes.,Domingo
+31,accusative_doubled,Andrea lo empujó a Domingo en la exposición de arte del martes.,Domingo
+32,dative,Mario regaló caramelos a Diana en la guardería para niños con discapacidades.,Diana
+32,dative_doubled,Mario le regaló caramelos a Diana en la guardería para niños con discapacidades.,Diana
+32,accusative,Mario conoció a Diana en la guardería para niños con discapacidades. ,Diana
+32,accusative_doubled,Mario la conoció a Diana en la guardería para niños con discapacidades.,Diana
